@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/bin/bash "
 OPENAI_API_TOKEN="YOUR API TOKEN HERE"
 # Check if the OPENAI_API_TOKEN environment variable is set
 if [ -z "$OPENAI_API_TOKEN" ]; then
