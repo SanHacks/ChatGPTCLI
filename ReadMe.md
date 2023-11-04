@@ -3,7 +3,7 @@ Instructions for running the code
 
 1. Run the script with the following command in the terminal (make sure you are in the same directory as the script):
 chmod +x gptcli.sh
-./sagecall.sh
+./gptcli.sh
 
 
 ## TO Call the script from anywhere in the system ( run the following command in the terminal):
